@@ -5,3 +5,5 @@
 - h5view.py
  One function to print the structure of hdf5 file, providing quick and easy summary.
  
+- DKnote.py
+ Convert current directive DuoKan Notes dkx file, to evernote. 
